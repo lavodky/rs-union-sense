@@ -28,7 +28,7 @@ Você concorda em não utilizar o site de maneira que possa:
 O uso deste site também é regido por nossa Política de Privacidade, que pode ser encontrada em [link para a política de privacidade].
 ## 6. Limitação de Responsabilidade
 
-Em nenhuma circunstância, a RS UNION SENSE ou seus integrantes, funcionários ou agentes serão responsáveis por quaisquer danos indiretos, incidentais, especiais, consequenciais ou punitivos, incluindo, sem limitação, perda de lucros, dados, uso, boa vontade, ou outras perdas intangíveis, resultantes de:
+Em nenhuma circunstância, a RS UNION SENSE ou seus integrantes serão responsáveis por quaisquer danos indiretos, incidentais, especiais, consequenciais ou punitivos, incluindo, sem limitação, perda de lucros, dados, uso, boa vontade, ou outras perdas intangíveis, resultantes de:
 
     Seu acesso ou uso ou incapacidade de acessar ou usar o site.
     Qualquer conduta ou conteúdo de qualquer terceiro no site.
