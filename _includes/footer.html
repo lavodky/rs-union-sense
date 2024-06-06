@@ -1,0 +1,11 @@
+<footer class="page-footer">
+    <hr class="footer-hr">
+    <nav class="footer-nav">
+        <a href="{{ '/privacidade'  | relative_url }}" rel="noopener noreferrer">Privacidade</a>
+        <a href="{{ '/cookie' | relative_url }}" rel="noopener noreferrer">Cookie</a>
+        <a href="{{ '/termos' | relative_url }}" rel="noopener noreferrer">Termos</a>
+    </nav>
+    {% if include.text %}
+    <p class="footer-text">{{include.text}}</p>
+    {% endif %}
+</footer>

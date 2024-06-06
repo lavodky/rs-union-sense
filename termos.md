@@ -3,7 +3,7 @@ layout: post
 private: true
 no_meta: true
 sitemap: false
-title: Termos of service
+title: Termos de servico
 ---
 
 This is an example of a Termos of service document. You can replace this with your own Termos of service.

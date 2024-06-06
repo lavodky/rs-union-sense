@@ -1,0 +1,158 @@
+/*
+ * Base
+*/
+html {
+  min-width: $min-width;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+
+  font-size: $base-font-size;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: var(--text-primary);
+
+  text-rendering: optimizeLegibility;
+
+  margin: 0;
+  padding: 0;
+
+  background-color: var(--background-color);
+
+  overflow-x: hidden;
+}
+
+main {
+  display: block;
+  max-width: $main-max-width;
+}
+
+a {
+  text-decoration: underline;
+  text-underline-offset: 1px;
+  color: var(--primary-text-color);
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-block-start: 0rem;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-block-start: 0.9rem;
+  margin-block-end: 0.7rem;
+}
+
+p {
+  margin-block-start: 0.7rem;
+  margin-block-end: 0.7rem;
+}
+
+section {
+  margin-block-start: 1.5rem;
+  margin-block-end: 1.5rem;
+}
+
+abbr[title] {
+  text-decoration: underline dotted;
+  cursor: help;
+  text-underline-offset: 2px;
+}
+
+/*
+ * Code
+*/
+pre,
+code {
+  font-family: $code-font-family;
+  font-size: 0.9em;
+  border: 1px solid var(--border-secondary);
+  border-radius: 3px;
+  background-color: var(--code-background-color);
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.highlight {
+  border-radius: 3px;
+  background: var(--code-background-color);
+
+  .highlighter-rouge & {
+    background: var(--code-background-color);
+  }
+}
+
+/*
+ * Tables
+*/
+table {
+  max-width: 100%;
+  text-align: $table-text-align;
+  border-collapse: collapse;
+  border: 1px solid var(--border-primary);
+
+  th,
+  td {
+    padding: 0.25rem;
+    border: 1px solid var(--border-primary);
+  }
+
+  thead {
+    background-color: var(--border-secondary);
+  }
+}
+
+/*
+ * Blockquotes
+*/
+blockquote {
+  margin-block-start: 1rem;
+  margin-block-end: 1rem;
+
+  margin-inline-start: 20px;
+  margin-inline-end: 20px;
+
+  padding: 0.5rem 1rem;
+
+  border-left: 5px solid var(--accent-primary);
+  background-color: var(--blockquote-background);
+  color: var(--text-secondary);
+
+  font-style: italic;
+  text-align: left;
+  word-spacing: normal;
+
+  & > blockquote {
+    border-left: 3px solid var(--accent-secondary);
+    margin-inline-start: 15px;
+    margin-inline-end: 15px;
+  }
+}

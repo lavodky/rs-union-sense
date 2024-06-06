@@ -1,0 +1,84 @@
+// from: https://github.com/jekyll/minima/blob/master/_sass/minima/initialize.scss
+// license: https://github.com/jekyll/minima/blob/master/LICENSE.txt
+@charset "utf-8";
+
+// Define defaults for each variable.
+$base-font-family:
+  "Open Sans",
+  -apple-system,
+  system-ui,
+  sans-serif,
+  Arial !default;
+$code-font-family: "Consolas", "Courier New", monospace !default;
+$base-font-size: 15px !default;
+$base-font-weight: 400 !default;
+$base-line-height: 1.5 !default;
+
+$table-text-align: left !default;
+
+$min-width : 220px !default;
+
+// Width of the content area
+$main-max-width: 1200px !default;
+$content-width-overflow: 100px !default;
+$content-width: 1000px !default;
+
+$card-max-width: 18rem !default;
+$card-min-width: 16rem !default;
+$card-min-height: 400px !default;
+
+$About-img-min-width: 250px !default;
+$About-img-max-width: 400px !default;
+$About-wrap-max-width: 800px !default;
+
+// Colors
+:root {
+  --background-color: #fff;
+
+  --text-primary: #1b1b1b;
+  --text-secondary: #282828;
+  --text-link: #005b9f;
+
+  --card-background-primary: #ececec;
+  --card-background-secondary: #c8c8c8;
+
+  --code-background-color: #f8f8f8;
+
+  --border-primary: #777;
+  --border-secondary: #ddd;
+
+  --blockquote-background: #f0f0f0;
+
+  --header-background: #282828;
+  --header-text-primary: #f4f4f4;
+
+  --nav-link-hover: #777777aa;
+  --link-hover: #777777aa;
+
+  --svg-fill: #000;
+
+  --accent-primary: #fe7a36;
+  --accent-secondary: #3652ad;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #121212;
+
+    --text-primary: #f4f4f4;
+    --text-secondary: #d4d4d4;
+    --text-link: #4faeff;
+
+    --card-background-primary: #343434;
+    --card-background-secondary: #6b6b6b;
+
+    --code-background-color: #2a2a2a;
+
+    --border-primary: #747474;
+    --border-secondary: #393939;
+
+    --blockquote-background: #1e1e1e;
+
+    --svg-fill: #fff;
+  }
+}

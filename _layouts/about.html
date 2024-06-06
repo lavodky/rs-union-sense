@@ -1,0 +1,109 @@
+---
+layout: base
+---
+<div class="content-width">
+    {% if page.title %}
+    <h1>{{ page.title }}</h1>
+    {% else %}
+    <h1>sobre</h1>
+    {% endif %}
+
+    <nav class="about-social no_print">
+        {% if site.github_url %}
+        <a href="{{ site.github_url }}" title="GitHub" target="_blank" rel="noopener">
+            <svg class="about-social--icon">
+                <use href="{{ "/assets/icon/github.svg#github" | relative_url }}" alt="GitHub"></use>
+            </svg>
+        </a>
+        {% endif %}
+
+        {% if site.gitlab_url %}
+        <a href="{{ site.gitlab_url }}" title="GitLab" target="_blank" rel="noopener">
+            <svg class="about-social--icon">
+                <use href="{{ "/assets/icon/gitlab.svg#gitlab" | relative_url }}" alt="GitLab"></use>
+            </svg>
+        </a>
+        {% endif %}
+
+        {% if site.discord_url %}
+        <a href="{{ site.discord_url }}" title="Discord" target="_blank" rel="noopener">
+            <svg class="about-social--icon">
+                <use href="{{ "/assets/icon/discord.svg#discord" | relative_url }}" alt="Discord"></use>
+            </svg>
+        </a>
+        {% endif %}
+
+        {% if site.reddit_url %}
+        <a href="{{ site.reddit_url }}" title="Reddit" target="_blank" rel="noopener">
+            <svg class="about-social--icon">
+                <use href="{{ "/assets/icon/reddit.svg#reddit" | relative_url }}" alt="Reddit"></use>
+            </svg>
+        </a>
+        {% endif %}
+
+        {% if site.instagram_url %}
+        <a href="{{ site.instagram_url }}" title="Instagram" target="_blank" rel="noopener">
+            <svg class="about-social--icon">
+                <use href="{{ "/assets/icon/instagram.svg#instagram" | relative_url }}" alt="Instagram">
+                </use>
+            </svg>
+        </a>
+        {% endif %}
+
+        {% if site.linkedin_url %}
+        <a href="{{ site.linkedin_url }}" title="LinkedIn" target="_blank" rel="noopener">
+            <svg class="about-social--icon">
+                <use href="{{ "/assets/icon/linkedin.svg#linkedin" | relative_url }}" alt="LinkedIn">
+                </use>
+            </svg>
+        </a>
+        {% endif %}
+
+        {% if site.threads_url %}
+        <a href="{{ site.threads_url }}" title="Threads" target="_blank" rel="noopener">
+            <svg class="about-social--icon">
+                <use href="{{ "/assets/icon/threads.svg#threads" | relative_url }}" alt="Threads">
+                </use>
+            </svg>
+        </a>
+        {% endif %}
+
+        {% if site.x_url %}
+        <a href="{{ site.x_url }}" title="X" target="_blank" rel="noopener">
+            <svg class="about-social--icon">
+                <use href="{{ "/assets/icon/x.svg#x" | relative_url }}" alt="X">
+                </use>
+            </svg>
+        </a>
+        {% endif %}
+
+        {% if site.telegram_url %}
+        <a href="{{ site.telegram_url }}" title="Telegram" target="_blank" rel="noopener">
+            <svg class="about-social--icon">
+                <use href="{{ "/assets/icon/telegram.svg#telegram" | relative_url }}" alt="Telegram">
+                </use>
+            </svg>
+        </a>
+        {% endif %}
+
+        {% if site.email %}
+        <a href="mailto:{{ site.email }}" title="Email" target="_blank" rel="noopener">
+            <svg class="about-social--icon">
+                <use href="{{ "/assets/icon/mail.svg#mail" | relative_url }}" alt="Email">
+                </use>
+            </svg>
+        </a>
+        {% endif %}
+    </nav>
+
+    <div class="about">
+        {% if page.image %}
+        <div class="about--img">
+            <img src="{{ page.image | relative_url }}" alt="sobre" width="500px" height="500px">
+        </div>
+        {% endif %}
+        <div class="about--content">
+            {{ content }}
+        </div>
+    </div>
+</div>

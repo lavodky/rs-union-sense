@@ -1,0 +1,51 @@
+@import "footer", "header";
+
+.page-main {
+  position: relative;
+  margin: 0 auto;
+
+  padding: 2rem 2rem 1rem 2rem;
+
+  @media screen and (max-width: 380px) {
+    padding: 1rem 1.25rem;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  svg {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.hidden-link {
+  text-decoration: none;
+  color: var(--text-primary);
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.center {
+  text-align: center;
+}
+
+.hover-underline {
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.content-width {
+  max-width: $content-width;
+  margin-left: auto;
+  margin-right: auto;
+}

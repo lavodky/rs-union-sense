@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="content-width">
+    <div class="post-preview-container">
+        {% for post in site.posts %}
+            {% include post-preview.html post=post %}
+            {% if forloop.last == false %}
+                <hr class="post-preview-hr">
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>

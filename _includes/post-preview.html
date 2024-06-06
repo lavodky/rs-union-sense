@@ -1,0 +1,15 @@
+<article class="post-preview" id="{{ include.post.id }}">
+    <a href="{{ include.post.url | relative_url }}" class="post-preview--link">
+        <div class="post-preview--content">
+            <h2 class="post-preview--title">{{ include.post.title }}</h2>
+            {% if include.post.subtitle %}
+            <p class="post-preview--subtitle">{{ include.post.subtitle }}</p>
+            {% else %}
+            <p class="post-preview--subtitle">
+                {{ include.post.excerpt | strip_html | truncatewords: 50 }}
+            </p>
+            {% endif %}
+            <p class="post-preview--date">{{ include.post.date | date: "%B %-d, %Y" }}</p>
+        </div>
+    </a>
+</article>

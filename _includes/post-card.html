@@ -1,0 +1,18 @@
+<article class="post-card" id="{{ include.post.id }}">
+<a href="{{ include.post.url | relative_url }}" class="post-card--link post-card--flex">
+    <div class="post-card--image">
+        <img src="{{ include.post.image | relative_url }}" alt="{{ include.post.title }}" aria-hidden="true" width="900" height="640">
+    </div>
+    <div class="post-card--content">
+        <h2 class="post-card--title">{{ include.post.title }}</h2>
+        {% if include.post.subtitle %}
+        <p class="post-card--subtitle">{{ include.post.subtitle }}</p>
+        {% else %}
+        <p class="post-card--subtitle">
+            {{ include.post.excerpt | strip_html | truncatewords: 50 }}
+        </p>
+        {% endif %}
+        <p class="post-card--date">{{ include.post.date | date: "%B %-d, %Y" }}</p>
+    </div>
+</a>
+</article>

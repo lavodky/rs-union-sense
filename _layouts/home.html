@@ -1,0 +1,25 @@
+---
+layout: base
+---
+
+<h1>{{ page.title }}</h1>
+
+<div>
+{{ content }}
+</div>
+
+<div>
+    <h2><a href="{{ '/feed' | relative_url }}" class="hidden-link">Latest posts</a></h2>
+    <div class="post-card-container">
+        {% for post in site.posts limit: 4 %}
+            {% include post-card.html post=post %}
+        {% endfor %}
+    </div>
+
+    <div class="no_print" style="height: fit-content; align-items: center; text-align: center; margin: 3rem auto 0rem;">
+        <a href="{{ '/feed' | relative_url }}" class="hidden-link hover-underline center">
+            <span>Leia todos os posts →</span>
+        </a>
+    </div>
+</div>
+
