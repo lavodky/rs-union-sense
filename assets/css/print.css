@@ -1,0 +1,44 @@
+@media print {
+    @page {
+        size: A4;
+    }
+
+    html, body, .page-main {
+        margin: 0 !important; 
+        padding: 0 !important;
+    }
+
+    header {
+        display: none !important;
+    }
+
+    footer {
+        display: none !important;
+    }
+
+    blockquote, pre {
+        display: block;
+      
+        page-break-before: avoid;
+        page-break-inside: avoid;
+    }
+
+    .post-card-container {
+        gap: 1.5rem;
+    }
+
+    .post-card {
+        max-width: max-content;
+    }
+
+    .post-card img {
+        max-width: 80% !important;
+    }
+}
+
+
+@media print {
+    .no_print, .no_print * {
+        display: none !important;
+    }
+}

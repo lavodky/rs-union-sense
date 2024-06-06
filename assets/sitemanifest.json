@@ -1,0 +1,49 @@
+{
+    "name": "Tallneck preview",
+    "short_name": "Tallneck",
+    "lang": "en",
+    "description": "Preview for the theme Tallneck for Jeckyll.",
+    "categories": ["personalization", "utilities", "medical"],
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/assets/images/pwa_icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/assets/images/avatar2.png",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "monochrome"
+        },
+        {
+            "src": "/assets/images/pwa_icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/assets/images/pwa_icon_x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/assets/images/pwa_icon_x128.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/assets/images/pwa_icon_x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "theme_color": "#282828",
+    "background_color": "#282828",
+    "display": "standalone"
+}
