@@ -3,10 +3,10 @@ layout: post
 private: true
 no_meta: true
 sitemap: false
-title: Privacy policy
+title: Privacidade policy
 ---
 
-This is an example of a privacy policy document. You can replace this with your own privacy policy.
+This is an example of a Privacidade policy document. You can replace this with your own Privacidade policy.
 
 ## Information we collect
 
