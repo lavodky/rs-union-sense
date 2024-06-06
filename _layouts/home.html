@@ -9,7 +9,7 @@ layout: base
 </div>
 
 <div>
-    <h2><a href="{{ '/feed' | relative_url }}" class="hidden-link">Latest posts</a></h2>
+    <h2><a href="{{ '/feed' | relative_url }}" class="hidden-link">Últimas</a></h2>
     <div class="post-card-container">
         {% for post in site.posts limit: 4 %}
             {% include post-card.html post=post %}

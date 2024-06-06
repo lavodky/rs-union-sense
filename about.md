@@ -1,9 +1,23 @@
 ---
 layout: about
 title: sobre
-image: "/assets/images/about.webp"
+image: "/assets/images/sobre3.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam rhoncus ultricies purus in placerat. Suspendisse a euismod nulla. Pellentesque suscipit non arcu in facilisis. Praesent sagittis fermentum ex, vitae finibus tellus luctus rutrum. Vivamus aliquam urna rhoncus nibh consequat dignissim vel et est. Praesent varius tortor non nibh interdum lacinia. Curabitur fermentum erat eget mi pharetra aliquam ac et lacus. Pellentesque eget ligula pulvinar, tincidunt sem id, mollis mauris. Vestibulum ullamcorper urna vel tellus consequat ultricies. Donec mattis tortor sit amet leo fermentum, ac lacinia sapien laoreet. Sed condimentum felis at tellus elementum sodales. In posuere tortor eget ex consequat pretium. Duis iaculis diam quis purus condimentum porttitor vitae sed tellus. Sed venenatis tortor vitae erat ullamcorper dignissim. Morbi vitae suscipit augue, at malesuada erat. Maecenas et vulputate magna.
+### Nossa Missão
 
-[test link](https://www.google.com)
+Este site foi construído com fins informativos e para armazenar e compartilhar o impacto da enchente na vida das pessoas no Rio Grande do Sul. Queremos contar histórias reais e profundas das pessoas afetadas pela enchente, histórias que muitas vezes não são contadas pelos meios de comunicação tradicionais.
+Nossa Abordagem
+
+Os meios de mídia, como você provavelmente já sabe, não exploram a fundo a história da vida das pessoas que passaram pela enchente. Aqui, buscamos preencher essa lacuna, fornecendo uma plataforma para que essas vozes sejam ouvidas e suas histórias, compartilhadas.
+Nossa Independência
+
+Este site é totalmente beneficente. Não fazemos parte de nenhuma empresa e não temos fins lucrativos. Nosso objetivo é simplesmente informar e conscientizar sobre a situação das vítimas da enchente.
+Nossa Cautela
+
+Reconhecemos que existem muitas pessoas de boa fé ajudando por aí. No entanto, infelizmente, golpistas (scammers) também estão tirando proveito da situação. Por isso, este site verifica todas as informações vinculadas. Trabalhamos diligentemente para garantir que todas as histórias, dados e recursos que compartilhamos sejam precisos e confiáveis.
+
+Se você tiver alguma dúvida ou desejar compartilhar sua história, entre em contato conosco. Estamos aqui para ouvir e ajudar.
+
+
+

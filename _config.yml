@@ -1,5 +1,5 @@
 title: RS UNION SENSE
-language: en
+language: pt
 
 copyright: "Copyright (c) 2024 RS UNION SENSE"
 
@@ -11,16 +11,16 @@ url: ""
 baseurl: "rs-union-sense"
 
 social: true
-email: "test@example.com"
-github_url: https://example.com/
-gitlab_url: https://example.com/
-discord_url: https://example.com/
-linkedin_url: https://example.com/
-reddit_url: https://example.com/
-instagram_url: https://example.com/
-threads_url: https://example.com/
-x_url: https://example.com/
-telegram_url: https://example.com/
+#email: "sorrymybadd@protonmail.com"
+#github_url: https://example.com/
+#gitlab_url: https://example.com/
+#discord_url: https://example.com/
+#linkedin_url: https://example.com/
+#reddit_url: https://example.com/
+#instagram_url: https://example.com/
+#threads_url: https://example.com/
+#x_url: https://example.com/
+#telegram_url: https://example.com/
 
 defaults:
   - scope:
@@ -48,15 +48,15 @@ sass:
 
 
 
-email: your-email@example.com
+#email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Este site foi criado com fins informativos para documentar o impacto das enchentes na vida das 
   pessoas no Rio Grande do Sul. Diferente da cobertura superficial da mídia tradicional, nosso objetivo é 
   contar a fundo as histórias dos afetados pelas enchentes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 theme: jekyll-theme-tallneck

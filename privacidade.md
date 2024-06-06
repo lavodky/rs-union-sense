@@ -3,19 +3,39 @@ layout: post
 private: true
 no_meta: true
 sitemap: false
-title: Privacidade policy
+title: Política de Privacidade
 ---
 
-This is an example of a Privacidade policy document. You can replace this with your own Privacidade policy.
+## 1. Introdução
 
-## Information we collect
+A RS UNION SENSE está comprometida em proteger a privacidade de nossos usuários. Esta Política de Privacidade explica como coletamos, usamos, divulgamos e protegemos suas informações pessoais quando publicamos história de uma pessoa no nosso site.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.
+## 2. Uso das Informações
 
-## How we use your information
+Não coletamos nenhuma informação automatizada sobre os usuários que acessam o site.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.
+## 3. Compartilhamento de Informações
 
-### Sharing your information
+Nós não vendemos, trocamos ou transferimos suas informações pessoais para terceiros sem o seu consentimento
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.
+## 4. Segurança das Informações
+
+Adotamos medidas de segurança adequadas para proteger suas informações pessoais contra acesso não autorizado, alteração, divulgação ou destruição. No entanto, nenhuma transmissão pela internet é completamente segura, e não podemos garantir a segurança absoluta de suas informações.
+
+## 5. Direitos do Usuário
+
+Você tem o direito de:
+
+    1.Acessar e receber uma cópia das suas informações pessoais.
+    2.Corrigir qualquer informação pessoal incorreta ou desatualizada.
+    3.Solicitar a exclusão das suas informações pessoais, sujeito a certas exceções legais.
+
+Para exercer esses direitos, entre em contato conosco através do seguinte endereço de e-mail: [sorrymybadd@protonmail.com].
+## 6. Alterações a Esta Política de Privacidade
+
+Podemos atualizar esta Política de Privacidade periodicamente. Quaisquer alterações serão publicadas nesta página com a data da revisão atualizada. Recomendamos que você revise esta política regularmente para se manter informado sobre como estamos protegendo suas informações.
+## 7. Contato
+
+Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade, entre em contato conosco através do seguinte endereço de e-mail: [sorrymybadd@protonmail.com].
+
+Ao utilizar este site, você reconhece que leu, entendeu e concorda com esta Política de Privacidade.

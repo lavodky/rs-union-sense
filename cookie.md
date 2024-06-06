@@ -3,11 +3,10 @@ layout: post
 private: true
 no_meta: true
 sitemap: false
-title: Cookie policy
+title: Cookie 
 ---
 
-This is an example of a cookie policy document. You can replace this with your own cookie policy.
 
-## Cookies used
+## Cookies usados
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo.
+Não coletamos nenhuma informação pessoal identificável através dos cookies. Os cookies que utilizamos não permitem que identifiquemos pessoalmente os usuários. As informações coletadas são usadas apenas para fins estatísticos e de melhoria do site.
