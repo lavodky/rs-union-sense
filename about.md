@@ -1,12 +1,15 @@
 ---
 layout: about
 title: sobre
-image: "/assets/images/sobre3.png"
+#image: "/assets/images/sobre3.png"
 ---
+
+<div style="max-width: 1458px;"><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 66.6504%;"><iframe src="//iframely.net/CF1brNX" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div></div>
+
 
 ### Nossa Missão
 
-Este site foi construído com fins informativos e para armazenar e compartilhar o impacto da enchente na vida das pessoas no Rio Grande do Sul. Queremos contar histórias reais e profundas das pessoas afetadas pela enchente, histórias que muitas vezes não são contadas pelos meios de comunicação tradicionais.
+Este site foi construído com fins informativos e para armazenar e compartilhar o impacto da enchente na vida das pessoas no Rio Grande do Sul. Queremos contar histórias reais e profundas das pessoas afetadas pela enchente.
 
 ### Nossa Abordagem
 
