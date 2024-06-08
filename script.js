@@ -24,13 +24,13 @@ form.addEventListener("submit", e => {
         if (Object.hasOwn(data, 'errors')) {
           alert(data["errors"].map(error => error["message"]).join(", "));
         } else {
-          alert("Oops! There was a problem submitting your form");
+          alert("Oops!");
         }
       })
     }
   }).catch(error => {
     loader.classList.add('hidden');
     button.disabled = false;
-    alert("Oops! There was a problem submitting your form");
+    alert("Oops!");
   });
 });
