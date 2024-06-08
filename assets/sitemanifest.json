@@ -1,8 +1,8 @@
 {
-    "name": "Tallneck preview",
-    "short_name": "Tallneck",
-    "lang": "en",
-    "description": "Preview for the theme Tallneck for Jeckyll.",
+    "name": "RS UNION SENSE",
+    "short_name": "UNION SENSE",
+    "lang": "pt",
+    "description": "RS UNION SENSE",
     "categories": ["personalization", "utilities", "medical"],
     "start_url": "/",
     "icons": [
