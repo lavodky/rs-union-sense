@@ -49,14 +49,14 @@ sass:
 
 
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- 
   Este site foi criado com fins informativos para documentar o impacto das enchentes na vida das 
   pessoas no Rio Grande do Sul. Diferente da cobertura superficial da mídia tradicional, nosso objetivo é 
   contar a fundo as histórias dos afetados pelas enchentes.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+baseurl: "" # 
+url: "" # 
+#twitter_username: 
+#github_username:  
 
 # Build settings
 theme: jekyll-theme-tallneck
