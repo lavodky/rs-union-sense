@@ -3,7 +3,7 @@ title:  "Adote um Herói de Patas 🐶"
 date:   2024-06-11 07:40:28 +0100
 keywords: "adoção, rio grande do sul, gato, cachorro"
 
-image: /doacao/dog1_capa.jpg
+image: /doacao_image/dog1_capa.jpg
 ---
 Os recentes eventos no Rio Grande do Sul trouxeram à tona histórias de coragem e sobrevivência, não apenas entre as pessoas, mas também entre nossos amigos de quatro patas. Muitos cães foram resgatados das enchentes, enfrentando situações extremas e mostrando uma resiliência admirável. Agora, eles precisam de um lar cheio de amor e carinho. 
 
