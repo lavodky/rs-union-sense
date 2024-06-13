@@ -1,27 +1,43 @@
 ---
-title:  "Adote um Herói de Patas"
-date:   2024-06-12 07:40:28 +0100
+title:  "Adote um Herói de Patas 🐶"
+date:   2024-06-11 07:40:28 +0100
 keywords: "adoção, rio grande do sul, gato, cachorro"
 
-image: /doacao_image/dog1_capa.jpg
+image: /doacao/dog1_capa.jpg
 ---
 Os recentes eventos no Rio Grande do Sul trouxeram à tona histórias de coragem e sobrevivência, não apenas entre as pessoas, mas também entre nossos amigos de quatro patas. Muitos cães foram resgatados das enchentes, enfrentando situações extremas e mostrando uma resiliência admirável. Agora, eles precisam de um lar cheio de amor e carinho. 
 
-# Doações em todo Rio grande do Sul
-## Pelotas 
+# Doaçoes em todo Rio grande do Sul 🧉
 
-### Nome: Nairóbi
-
-* Fêmea
-* Castrada
-* 2 anos
-* Dócil
+<center>
+<h2>Pelotas📍</h2>
+</center>
 
 <br />
 <center>
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%; padding-top: 30px;"><iframe src="https://docs.google.com/presentation/d/1SVsZuLJaraMejZzGjvJFiPCserql69d4YM1SzzvV-6s/embed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
 </center>
+
 <br />
 
+ <hr>
+
+<center>
+
+<h2> Porto Alegre📍 </h2>
+
+</center>
+
+<center>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%; padding-top: 30px;"><iframe src="https://docs.google.com/presentation/d/1Uztucg7z0WLaST9B0HHdNHYMXfbO7Zk9P1v0NfU0AUA/embed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
+</center>
+<br />
+
+
+
 <div data-fillout-id="4WjgbZvDxrus" data-fillout-embed-type="popup" data-fillout-button-text="ENVIE UMA DOAÇÃO" data-fillout-dynamic-resize data-fillout-button-color="#00D084" data-fillout-button-float="bottom-right" data-fillout-inherit-parameters data-fillout-popup-size="small"></div><script src="https://server.fillout.com/embed/v1/"></script>
+
+
+
 
