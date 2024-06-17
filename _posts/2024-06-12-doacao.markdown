@@ -1,9 +1,9 @@
 ---
 title:  "Adote ou encontre um Herói de Patas 🐶🐈 (links úteis)"
-date:   2024-06-16 21:02:28 +0100
-keywords: "adoção, rio grande do sul, gato, cachorro, links, instagram, whatsapp"
+date:   2024-06-16 07:40:28 +0100
+keywords: "adoção, rio grande do sul, gato, cachorro, links, instagram"
 
-image: image: /doacao_image/dog1_capa.jpg
+image: /doacao_image/dog1_capa.jpg
 ---
 
 
@@ -38,7 +38,7 @@ Os recentes eventos no Rio Grande do Sul trouxeram à tona histórias de coragem
 </a> </li>
 <li><i class="fa-brands fa-instagram"></i> <a href="https://www.instagram.com/animaisperdidossaoleo/reels/" target="_blank">@animaisperdidossaoleoi
 </a> </li>
-<li><i class="fa-brands fa-instagram"></i> <a href="https://www.instagram.com/cachorrosperdidossaoleo/" target="_blank">@cachorrosperdidossaoleo
+<li><i class="fa-brands fa-instagram"></i> <a href="https://www.instagram.com/cachorrosperdidossaoleo/" target="_blank">@cachorrosperdidossaoleo <ul><i class="fa-solid fa-file-pdf"></i> <a href="https://drive.google.com/file/d/1MNpXXL0gjtK54WkA-iVD1f5D3pto4jVm/view" target="_blank">Levantamento dos cachorros Guarany</a></ul>
 </a> </li>
 <li><i class="fa-brands fa-instagram"></i> <a href="https://www.instagram.com/amparoanimalnh/" target="_blank">@amparoanimalnh
 </a> </li>
@@ -183,4 +183,17 @@ Os recentes eventos no Rio Grande do Sul trouxeram à tona histórias de coragem
 <li><i class="fa-brands fa-instagram"></i> <a href="https://www.instagram.com/abrigo.k9sindef?igsh=MW8yNjk0NmVzbGlsOA%3D%3D" target="_blank">@abrigo.k9sindef
 </a> </li> <ul><i class="fa-brands fa-whatsapp"></i> <a href="https://chat.whatsapp.com/DIpnMevEXnXJ2R2ulgDQju" target="_blank">AMIGOS DO ABRIGO K9-SINDEF</a></ul>
 </ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
