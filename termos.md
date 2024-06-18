@@ -2,7 +2,7 @@
 layout: post
 private: true
 no_meta: true
-sitemap: false
+sitemap: true
 title: Termos de Serviço
 ---
 

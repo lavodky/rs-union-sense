@@ -1,9 +1,8 @@
 ---
-title:  "Adote ou encontre um Herói de Patas 🐶🐈 (links úteis)"
-date:   2024-06-16 21:23:28 +0100
-keywords: "adoção, rio grande do sul, gato, cachorro, links enchente, instagram, whatsapp"
-
-image: /doacao_image/dog1_capa.jpg
+title:  "links úteis para Rio grande do sul"
+date:   2024-06-17 10:44:28 +0100
+keywords: "links, rio grande do sul, porto alegre, canoas, instagram, whatsapp, noticias, ecac"
+image: /capas/julia_viniczay_capa.jpg
 ---
 
 
@@ -14,11 +13,9 @@ Os recentes eventos no Rio Grande do Sul trouxeram à tona histórias de coragem
 <h4><i class="fa-regular fa-bell"></i> seus links não aparecem aqui? envie através do botão verde no canto inferior direito ou envie no <i class="fa-brands fa-instagram"></i> @_zkowsky</h4>
 </center>
 
-<div data-fillout-id="4WjgbZvDxrus" data-fillout-embed-type="popup" data-fillout-button-text="ENVIE UMA DOAÇÃO" data-fillout-dynamic-resize data-fillout-button-color="#00D084" data-fillout-button-float="bottom-right" data-fillout-inherit-parameters data-fillout-popup-size="small"></div><script src="https://server.fillout.com/embed/v1/"></script>
 
 
-
-
+<div data-fillout-id="8XCU7JFUXFus" data-fillout-embed-type="popup" data-fillout-button-text="Apareça aqui" data-fillout-dynamic-resize data-fillout-button-color="#00D084" data-fillout-button-size="medium" data-fillout-button-float="bottom-right" data-fillout-inherit-parameters data-fillout-popup-size="medium"></div><script src="https://server.fillout.com/embed/v1/"></script>
 
 
 

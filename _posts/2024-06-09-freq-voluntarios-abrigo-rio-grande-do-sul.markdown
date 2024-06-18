@@ -2,6 +2,7 @@
 title:  "Frequência dos voluntários "
 date:   2024-06-09 12:40:28 +0100
 keywords: "voluntario, frequência, poa, ipa"
+image: /capas/sos_voluntarios.jpg
 ---
 ### período de exposição dos dados : 27/05/2024 - 06/06/2024
 Oh, bendito o que se entrega, Aos que sofrem sem ter guarida, Que em almas aflitas se apega, E acalenta a vida perdida. No silêncio de um gesto nobre, A mão que se estende ao irmão, É o rico, o humilde, o pobre, Tece a trama da compaixão. Voluntário, és luz na penumbra, Farol em mar de solidão, A esperança que nunca desanda, Alívio em tempos de aflição. A tua ação, oh, alma terna, Ecoa além do tempo e espaço, É como a brisa que se alterna, Trazendo ao peito doce abraço. Machado sorriria, creio eu, Ao ver tão nobre destempero, Onde o amor sem freio se deu, E o bem comum é o esmero. No altar do coração humano, Tua chama arde sem cessar, Voluntário, és soberano, És o que nos ensina a amar.
