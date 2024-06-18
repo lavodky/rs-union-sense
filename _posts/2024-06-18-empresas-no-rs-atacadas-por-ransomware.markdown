@@ -1,5 +1,5 @@
 ---
-title:  "Grupo de Ransomware que vazou dados da Boeing ataca duas empresas no Rio Grande do Sul"
+title:  "Grupo hacker ataca duas empresas no Rio Grande do Sul"
 date:   2024-06-18 14:44:28 +0100
 keywords: "hackers, rio grande do sul, lockbit, ransomware, , fecomercio , noticias, haburguesa"
 image: /capas/pirate_flag_2.jpg
@@ -7,7 +7,7 @@ image: /capas/pirate_flag_2.jpg
 
 O ransomware LockBit é um software malicioso projetado para bloquear o acesso do usuário aos sistemas de computador por meio de criptografia,<u> em troca do pagamento de um resgate</u>. LockBit oferece RaaS (Ransomware como serviço). Ele procura alvos valiosos, espalha a infecção e criptografa todos os sistemas de computador acessíveis em uma rede. Este ransomware é direcionado principalmente contra empresas e outras organizações. Não há limite geográfico quanto às metas.
 
-<br>
+<center> <h2>Grupo também vazou dados da Boeing no passado</h2> </center>
 <br>
 
 
