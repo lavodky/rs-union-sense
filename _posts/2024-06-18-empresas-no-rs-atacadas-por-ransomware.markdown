@@ -1,5 +1,5 @@
 ---
-title:  "Grupo hacker ataca duas empresas no Rio Grande do Sul"
+title:  "Grupo hacker ataca 2 empresas no Rio Grande do Sul"
 date:   2024-06-18 14:44:28 +0100
 keywords: "hackers, rio grande do sul, lockbit, ransomware, , fecomercio , noticias, haburguesa"
 image: /capas/pirate_flag_2.jpg
